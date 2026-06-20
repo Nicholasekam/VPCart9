@@ -48,3 +48,13 @@ The work also strengthened collaboration between product, design, engineering, a
 ## Website
 
 https://www.vpcart.com
+
+## Blog
+
+https://www.vpcart.com/blog/we-are-excited-to-announce-that-the-beta-release-of-vpcart-9-is-now-available/
+
+https://www.vpcart.com/blog/Following-the-Trend-The-Future-of-ECommerce-with-Mobile-Technology/
+
+https://www.vpcart.com/blog/Fix-Competition-with-These-Smart-Pricing-Tactics/
+
+https://www.vpcart.com/blog/ecommerce-features-your-customers-are-craving/
